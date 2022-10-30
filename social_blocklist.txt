@@ -830,20 +830,6 @@
  0.0.0.0 mqtt-mini.facebook.com
  0.0.0.0 external-ams3-1.xx.fbcdn.net
  0.0.0.0 facebook.net.edgekey.net
- 0.0.0.0 Footer
- 0.0.0.0 © 2022 GitHub, Inc.
- 0.0.0.0 Footer navigation
- 0.0.0.0 Terms
- 0.0.0.0 Privacy
- 0.0.0.0 Security
- 0.0.0.0 Status
- 0.0.0.0 Docs
- 0.0.0.0 Contact GitHub
- 0.0.0.0 Pricing
- 0.0.0.0 API
- 0.0.0.0 Training
- 0.0.0.0 Blog
- 0.0.0.0 About
 
 ## INSTAGRAM
 0.0.0.0 api.instagram.com
